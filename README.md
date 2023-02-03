@@ -8,3 +8,6 @@ A demo app to use battery api by imitating how electronic battery works, by maki
 ### uncompleted features
 * charge completion time
 * and discharging time
+
+### Interface
+![interface](./demo.png "battery api")
