@@ -11,3 +11,7 @@ A demo app to use battery api by imitating how electronic battery works, by maki
 
 ### Interface
 ![interface](./demo.png "battery api")
+
+### Browser Compatibility
+here are the list browsers that support and dose not support the api
+![browsers](./compatibility.png "list browsers")
